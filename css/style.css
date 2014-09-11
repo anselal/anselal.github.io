@@ -770,9 +770,10 @@
 				background-image: url('../images/banner.jpg');
 			}
 
-			#main > section.two
+			#main> #about
 			{
 				background-color: #f5fafa;
+				background-image: url('../images/absolute-thessaloniki.jpg');
 			}
 		
 			#main > section.three
